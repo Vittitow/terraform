@@ -21,7 +21,7 @@ variable "workload" {
 
 variable "environment" {
   type    = string
-  default = "sandbox"
+  default = "poc"
 }
 
 variable "location" {
